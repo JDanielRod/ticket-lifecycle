@@ -19,15 +19,23 @@ In this section, we'll create a ticket as a user and then receive the ticket as 
 <img src="https://imgur.com/Arw1G8J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
 </p>
 <br />
 
+Now, login as an agent we created. I logged in as jane.doe and as we can see, the ticket we created is shown. Click on the ticket and now we can see information about the ticket and are able to change some things. For instance, the ticket Priority can be changed to Emergency as it is business impacting. Also, the SLA plan can be changed because this is an issue that should be resolved as quickly as possible. In addition, the department responsible for handling this issue should be escalated to the System Administrators.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/arJr8u4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<img src="https://imgur.com/YZBu2rf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+</p>
+<br />
+
+What we do when we make these changes is recorded in a thread so others can see the progress of the ticket.
+<p>
+<img src="https://imgur.com/tLwHIpn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
